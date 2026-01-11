@@ -13,3 +13,6 @@ https://n-121-5.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist
 
 #EXTINF:-1 tvg-id="i24 news heb" tvg-logo="https://i.imgur.com/hnGgzEf.png" group-title="Israel",i24 בעברית
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Reshet 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", רשת 13
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
