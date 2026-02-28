@@ -5,16 +5,16 @@ https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 #EXTINF:-1  tvg-id="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",קשת 12
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/keshet_12_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
 
-#EXTINF:-1  tvg-id="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",seetv קשת 12
+#EXTINF:-1  tvg-id="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",(seetv) קשת 12
 http://gr.seetv.cc/play/470/1966B8DE7EC6FEE/video.m3u8
 
-#EXTINF:-1  tvg-id="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",a017 קשת 12
+#EXTINF:-1  tvg-id="Keshet 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Keshet12_2018.svg/1200px-Keshet12_2018.svg.png" group-title="Israel",(a017) קשת 12
 http://77.137.40.221:8000/play/a017
 
 #EXTINF:-1 tvg-id="Reshet 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel", רשת 13
 https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/freetv/live/reshet_13_hevc/live.livx/playlist.m3u8?fmp4&renditions&dvr=28800000
 
-#EXTINF:-1 tvg-id="Reshet 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel",a018 רשת 13
+#EXTINF:-1 tvg-id="Reshet 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/640px-Reshet13Logo2022.svg.png" group-title="Israel",(a018) רשת 13
 http://77.137.40.221:8000/play/a018
 
 #EXTINF:-1 tvg-id="now 14"   tvg-logo="https://www.now14.co.il/wp-content/uploads/2022/06/%D7%9C%D7%95%D7%92%D7%95-%D7%A9%D7%A7%D7%95%D7%A3-02-e1659629999469.png" group-title="Israel",עכשיו 14
